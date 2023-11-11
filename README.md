@@ -41,10 +41,14 @@ https://www.oracle.com/java/technologies/downloads/
   - Run src/test/java/tests/TestPlayAudio.java this file.
   - You can see logs in the terminal.
  ## Scenario:
- - Login with Username &password
-- Login to Web Shop demo site:  https://development.app.koolio.ai/
-- Upload an audio file with its annotations
-- Play the uploaded audio till end
+ - Login with Username & password
+ - Login to Web Shop demo site:  https://development.app.koolio.ai/
+ - Upload an audio file with its annotations
+ - Play the uploaded audio till the end
 
 ## Automation Output Video:
+
+https://github.com/SHANJIDA-HRIDE/koolio_Test/assets/62147630/8175102a-0532-4ac6-bdeb-97755bc61b10
+
+https://github.com/SHANJIDA-HRIDE/koolio_Test/assets/62147630/8143879b-a291-42fb-91e8-8bc3421fede9
 
